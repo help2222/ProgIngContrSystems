@@ -1,0 +1,2 @@
+﻿Куценко 
+python, javascript, git
