@@ -3,5 +3,5 @@
 Додав до власного форку користувачів:
 
 -   Андрiюк Ankop57
--   Дробуш drobush
--   Крещенко inсlavatus
+-   Мiненко pauleleme
+-   Максименко Poseidonnn
